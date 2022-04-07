@@ -1,7 +1,7 @@
-package com.shethap.tech.rediscounterservice.rest;
+package com.anand.tech.rediscounterservice.rest;
 
-import com.shethap.tech.rediscounterservice.entity.Counter;
-import com.shethap.tech.rediscounterservice.service.CounterService;
+import com.anand.tech.rediscounterservice.entity.Counter;
+import com.anand.tech.rediscounterservice.service.CounterService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

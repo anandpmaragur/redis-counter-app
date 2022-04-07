@@ -1,4 +1,4 @@
-package com.shethap.tech.rediscounterservice;
+package com.anand.tech.rediscounterservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

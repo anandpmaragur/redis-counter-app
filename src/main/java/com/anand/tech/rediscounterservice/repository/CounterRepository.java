@@ -1,6 +1,6 @@
-package com.shethap.tech.rediscounterservice.repository;
+package com.anand.tech.rediscounterservice.repository;
 
-import com.shethap.tech.rediscounterservice.entity.Counter;
+import com.anand.tech.rediscounterservice.entity.Counter;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

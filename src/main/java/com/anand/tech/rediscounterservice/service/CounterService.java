@@ -1,7 +1,7 @@
-package com.shethap.tech.rediscounterservice.service;
+package com.anand.tech.rediscounterservice.service;
 
-import com.shethap.tech.rediscounterservice.entity.Counter;
-import com.shethap.tech.rediscounterservice.repository.CounterRepository;
+import com.anand.tech.rediscounterservice.entity.Counter;
+import com.anand.tech.rediscounterservice.repository.CounterRepository;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;

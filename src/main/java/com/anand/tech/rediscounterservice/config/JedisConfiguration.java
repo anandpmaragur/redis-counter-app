@@ -1,4 +1,4 @@
-package com.shethap.tech.rediscounterservice.config;
+package com.anand.tech.rediscounterservice.config;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.shethap.tech.rediscounterservice.config;
+package com.anand.tech.rediscounterservice.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

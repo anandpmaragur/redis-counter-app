@@ -1,4 +1,4 @@
-package com.shethap.tech.rediscounterservice;
+package com.anand.tech.rediscounterservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

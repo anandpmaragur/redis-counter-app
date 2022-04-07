@@ -29,6 +29,7 @@ kind: Service
 metadata:
   name: counter-app-service
 spec:
+  type: NodePort
   selector:
     app: counter-app
   ports:

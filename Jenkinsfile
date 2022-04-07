@@ -49,7 +49,7 @@ pipeline {
                }
         }
 		
-        stage('Push') {
+        stage('Image Build & Push') {
             steps {
 			
                 sh '''

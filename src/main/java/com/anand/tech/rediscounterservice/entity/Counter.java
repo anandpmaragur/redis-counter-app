@@ -1,4 +1,4 @@
-package com.shethap.tech.rediscounterservice.entity;
+package com.anand.tech.rediscounterservice.entity;
 
 import lombok.Builder;
 import lombok.Data;
