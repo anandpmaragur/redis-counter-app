@@ -55,9 +55,9 @@ pipeline {
                 sh '''
 					echo "*** Logging in ***"
 					echo $PASS  | docker login --username anandmaragur --password-stdin
-					docker build . -t $REGISTRY/redis-counter-service:v1 --no-cache
+					docker build . -t $REGISTRY/redis-counter-app:v1 --no-cache
 					echo "*** Pushing image ***"
-					docker push $REGISTRY/redis-counter-service:v1
+					docker push $REGISTRY/redis-counter-app:v1
 					'''
             }
         }
