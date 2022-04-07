@@ -2,6 +2,7 @@
 redis-counter-app with containerized 
 
 #Build Instructions
+
 mvn clean install
 
 docker login --username <username> --password <pass>
