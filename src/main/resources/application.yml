@@ -1,0 +1,3 @@
+redis:
+ host: redis-db-svc
+ port: 6379
